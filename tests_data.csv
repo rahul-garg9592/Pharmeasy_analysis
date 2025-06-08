@@ -1,0 +1,353 @@
+,test_name,test_MRP_price,test_discounted_price,test_description
+0,Alpha-1-Antitrypsin (AAT), ₹1099,₹499 ,Fasting not required
+1,Androstedione Test, ₹1699,₹1049 ,Fasting not required
+2,Fasting Blood Sugar (FBS) Test, ₹299,₹119 ,Fasting required
+3,Small Dense LDL, ₹499,₹249 ,Fasting not required
+4,Beta 2 microglobulin Test, ₹799,₹599 ,Fasting not required
+5,Caesium,No MRP Price,₹1099 ,Fasting not required
+6,Lipase Test, ₹699,₹299 ,Fasting not required
+7,"Allergy Panel Food, Inhalant Plus Drug	", ₹18999,₹11099 ,Fasting not required
+8,Retic Count Test, ₹699,₹299 ,Fasting not required
+9,TRICHOMONAS VAGINALIS PCR, ₹8549,₹5149 ,Fasting not required
+10,Mercury,No MRP Price,₹1099 ,Fasting not required
+11,Anti Thyroperoxidase Antibody (Anti-TPO) Test, ₹1399,₹1099 ,Fasting not required
+12,Thyroxine (T4) Test, ₹299,₹175 ,Fasting not required
+13,HDL Cholestrol Test, ₹299,₹175 ,Fasting required
+14,Serum Iron Test, ₹549,₹249 ,Fasting not required
+15,Hepatitis C Virus - IgM, ₹1399,₹649 ,Fasting not required
+16,Prolactin Test, ₹499,₹369 ,Fasting not required
+17,Total Iron Binding Capacity, ₹499,₹199 ,Fasting not required
+18,LDL Cholestrol Direct Test, ₹399,₹299 ,Fasting required
+19,Ionic Calcium, ₹699,₹299 ,Fasting not required
+20,Anti SCL - 70 Antibody, ₹699,₹349 ,Fasting not required
+21,GENEXPERT, ₹7349,₹4349 ,Fasting not required
+22,Dihydrotestosteron (DHT) Test, ₹4999,₹2149 ,Fasting not required
+23,CHROMOGRANIN A, ₹5899,₹3499 ,Fasting not required
+24,Bilirubin Total, ₹449,₹175 ,Fasting not required
+25,Testosterone Test, ₹749,₹419 ,Fasting not required
+26,Hepatitis E Virus IgG, ₹499,₹399 ,Fasting not required
+27,Sex Hormone Binding Globuline (SHBG) Test, ₹849,₹699 ,Fasting not required
+28,Complement (C3), ₹799,₹449 ,Fasting required
+29,Immunoglobulin G Test - IgG , ₹1049,₹599 ,Fasting not required
+30,Syphilis Rapid Test, ₹1099,₹499 ,Fasting not required
+31,Allergy Panel Non-Veg	, ₹5449,₹3199 ,Fasting not required
+32,Human Leukocyte Antigen B27 (HLA B27) Test, ₹4099,₹2069 ,Fasting not required
+33,Dengue Test - IgG (Elisa) , ₹649,₹599 ,Fasting not required
+34,Vitamin K, ₹3499,₹1699 ,Fasting not required
+35,Antimony,No MRP Price,₹1099 ,Fasting not required
+36,Properdin Factor B,No MRP Price,₹1099 ,Fasting not required
+37,Insulin Antibodies, ₹1649,₹999 ,Fasting not required
+38,ASCA Test - IgA, ₹1299,₹1049 ,Fasting not required
+39,Insulin Post Prandial (PP) Test, ₹899,₹449 ,Fasting not required
+40,Activated Partial Thromboplastin Time (APTT), ₹1499,₹699 ,Fasting not required
+41,Prostate Specific Antigen (PSA) Test, ₹649,₹489 ,Fasting not required
+42,Anti Hepatitis B Envelope Antigen (AHBE) - Total, ₹949,₹549 ,Fasting not required
+43,Myoglobin, ₹1299,₹999 ,Fasting not required
+44,Transferrin Serum, ₹499,₹399 ,Fasting not required
+45,Total Cholesterol, ₹399,₹175 ,Fasting required
+46,MYCOPLASMA GENITALIUM PCR, ₹8549,₹5149 ,Fasting not required
+47,Toxoplasma Test - IgM, ₹699,₹299 ,Fasting not required
+48,C-Reactive Protein (CRP) Test - Quantitative, ₹949,₹509 ,Fasting not required
+49,Anti Hepatitis B Core Antibody (AHBC) - IgM, ₹549,₹499 ,Fasting not required
+50,Vitamin B12 Test, ₹1149,₹489 ,Fasting not required
+51,Adrenocorticotropic Hormone (ACTH), ₹1599,₹749 ,Fasting not required
+52,Covid-19 RTPCR Test (Coronavirus SARS - CoV2),No MRP Price,₹700 ,Fasting not required
+53,Uric Acid Test, ₹299,₹209 ,Fasting not required
+54,Blood Ketones Test, ₹699,₹299 ,Fasting not required
+55,No Title,No MRP Price,No Discounted Price,No Description
+56,Procalcitonin Test, ₹1999,₹1949 ,Fasting not required
+57,Antidnase-B (DNB),No MRP Price,₹4399 ,Fasting not required
+58,Ferritin Test, ₹899,₹489 ,Fasting not required
+59,Cytoplasmic Antineutrophil Cytoplasmic Antibody (C-ANCA) Test, ₹949,₹849 ,Fasting not required
+60,Fat Soluble Vitamin Profile , ₹2199,₹1699 ,Fasting not required
+61,Alpha 1 Acid Glycoprotein,No MRP Price,₹649 ,Fasting not required
+62,Immunoglobulin M (IgM), ₹1049,₹599 ,Fasting not required
+63,Strontium,No MRP Price,₹1099 ,Fasting not required
+64,Complement (C4), ₹799,₹449 ,Fasting required
+65,CBC Test, ₹799,₹349 ,Fasting not required
+66,Herpes Simplex Virus (HSV) - IgM, ₹699,₹299 ,Fasting not required
+67,Serum Zinc Test, ₹1449,₹1049 ,Fasting not required
+68,Cluster of Differentiation (CD3/CD4/CD8), ₹1699,₹899 ,Fasting not required
+69,Bilirubin Direct, ₹449,₹175 ,Fasting not required
+70,Gastrin, ₹949,₹699 ,Fasting not required
+71,Dengue NS 1 Antigen Test, ₹649,₹599 ,Fasting not required
+72,Anti phospholipid Test - IgM, ₹1049,₹659 ,Fasting not required
+73,Tissue Tranglutaminase Test - IgA, ₹1999,₹1399 ,Fasting not required
+74,Blood Urea Nitrogen (BUN)/Serum Urea Test, ₹249,₹125 ,Fasting not required
+75,Kala Azar Antibody Rapid Test, ₹799,₹649 ,Fasting not required
+76,Hepatitis C Virus - IgG, ₹349,₹299 ,Fasting not required
+77,Pregnancy Test (Urine), ₹249,₹199 ,Fasting not required
+78,"1,5 Anhydroglucitol", ₹1049,₹849 ,Fasting not required
+79,Serum Sodium (Na) Test, ₹299,₹175 ,Fasting not required
+80,Haptoglobin, ₹449,₹399 ,Fasting not required
+81,Pyruvate, ₹349,₹249 ,Fasting not required
+82,Treponema Pallidum Haemagglutination, ₹799,₹449 ,Fasting not required
+83,Methadone, ₹299,₹225 ,Fasting not required
+84,Beta HCG Test, ₹799,₹649 ,Fasting not required
+85,"Allergy Panel Food, Inhalant Plus Non-Veg	", ₹15999,₹9199 ,Fasting not required
+86,Insulin Fasting Test, ₹849,₹459 ,Fasting required
+87,Cadmium,No MRP Price,₹1099 ,Fasting not required
+88,Beta 2 Glycoprotein - IgM, ₹949,₹449 ,Fasting not required
+89,Anti Cyclic Citrullinated Peptide Antibody (Anti CCP) Test, ₹1349,₹1039 ,Fasting not required
+90,"
+          Glycosylated Hemoglobin (HbA1c) Test
+        ", ₹699,₹449 ,Fasting not required
+91,Silver,No MRP Price,₹1099 ,Fasting not required
+92,Aluminium,No MRP Price,₹1099 ,Fasting not required
+93,Anti Chlamydia Antibody Test - IgM, ₹699,₹299 ,Fasting not required
+94,Erythrocyte Sedimentation Rate (ESR) Test,No MRP Price,₹199 ,Fasting not required
+95,Filaria Antigen Rapid Test, ₹1549,₹1199 ,Fasting not required
+96,Cardiolipin Test - IgG, ₹799,₹449 ,Fasting not required
+97,Herpes Simplex Virus 2 (HSV) - IgM, ₹699,₹299 ,Fasting not required
+98, Free Thyroid Profile Test, ₹699,₹549 ,Fasting not required
+99,Albumin Creatinine Ratio (ACR) / Urine For Microalbuminuria Test, ₹1299,₹669 ,Fasting not required
+100,Serum Amyloid A Protein, ₹799,₹649 ,Fasting not required
+101,Creatine Phosphokinase Total (CPK) Test, ₹499,₹199 ,Fasting not required
+102,Cardiolipin Test - IgA, ₹799,₹449 ,Fasting not required
+103,HIV I RNA Quantification (Viral load), ₹6049,₹4349 ,Fasting not required
+104,TB PCR, ₹3749,₹2199 ,Fasting not required
+105,Erythrocyte Count (RBC) Test, ₹249,₹175 ,Fasting not required
+106,HIV 1 & 2 Antibodies Test, ₹699,₹419 ,Fasting not required
+107,Vitamin B1/Thiamin, ₹2324,₹1499 ,Fasting not required
+108,Apolipoprotein B Test, ₹899,₹499 ,Fasting not required
+109,Varicella Zoster IgG, ₹949,₹749 ,Fasting not required
+110,Pregnancy Associated Plasma Protein A, ₹699,₹299 ,Fasting not required
+111,Anti Nuclear Antibody / Factor (ANA / ANF) Test, ₹1049,₹749 ,Fasting not required
+112,Dengue Ns1 Antigen Rapid Test, ₹649,₹499 ,Fasting not required
+113,CPK (Muscle / Brain), ₹499,₹249 ,Fasting not required
+114,Adult Hemoglobin Electrophoresis, ₹1599,₹789 ,Fasting not required
+115,NT-ProBNP Test,No MRP Price,₹1899 ,Fasting not required
+116,Total Protein Test , ₹249,₹125 ,Fasting not required
+117,Anti Hepatitis A Virus (HAV) - Total, ₹949,₹449 ,Fasting not required
+118,NEISSERIA GONORRHOEAE PCR, ₹8549,₹5149 ,Fasting not required
+119,Free Thyroxine (FT4) Test, ₹499,₹239 ,Fasting not required
+120,Amino Acid Profile (35), ₹2949,₹1449 ,Fasting not required
+121,Post Prandial Blood Sugar (PPBS) Test, ₹299,₹119 ,Fasting not required
+122,Beta 2 Glycoprotein - IgG, ₹949,₹449 ,Fasting not required
+123,Thrombin Time, ₹699,₹349 ,Fasting not required
+124,Cancer Antigen 15.3 (CA 15.3) Test, ₹699,₹549 ,Fasting not required
+125,Allergy Panel Food Plus Inhalant	, ₹10999,₹6499 ,Fasting not required
+126,Unconjugated Estriol (E3), ₹699,₹299 ,Fasting not required
+127,"Thyroid Profile Test (T3, T4, UTSH) / TFT", ₹699,₹399 ,Fasting not required
+128,Lipoprotein-associated phospholipase A2 (LP-PLA2), ₹699,₹299 ,Fasting not required
+129,Barbiturates, ₹674,₹449 ,Fasting not required
+130,Hepatitis B Enevelope Antigen(HbeAg) Rapid Test, ₹449,₹349 ,Fasting not required
+131,Platelet Count Test, ₹249,₹175 ,Fasting not required
+132,Leutinising Hormone (LH) Test, ₹599,₹349 ,Fasting not required
+133,Hepatitis B Surface Antigen (HBsAg) Rapid Test, ₹249,₹175 ,Fasting not required
+134,Alkaline Phosphatase (ALP) Test, ₹249,₹175 ,Fasting not required
+135,Tin,No MRP Price,₹1099 ,Fasting not required
+136,Perinuclear Antineutrophil Cytoplasmic Antibodies (P-ANCA) Test, ₹949,₹849 ,Fasting not required
+137,Lambda Light Chain, ₹799,₹599 ,Fasting not required
+138,Chloride (Cl) Test, ₹349,₹175 ,Fasting not required
+139,Thyroid Stimulating Hormone - Receptor Antibodies (TSH Receptor Antibodies), ₹1549,₹1199 ,Fasting not required
+140,Opiates, ₹2000,₹1000 ,Fasting not required
+141,Lead, ₹1099,₹1049 ,Fasting not required
+142,Random Blood Sugar (RBS) Test, ₹249,₹119 ,Fasting not required
+143,Allergy Panel Drug	, ₹7499,₹4299 ,Fasting not required
+144,Free Prostate Specific Antigen (Free PSA for Men), ₹999,₹749 ,Fasting not required
+145,Hepatitis b surface antibody (anti-hbs), ₹649,₹449 ,Fasting not required
+146,Hepatitis B Core Antibody Rapid Test, ₹699,₹499 ,Fasting not required
+147,Parathyroid Hormone (PTH) Test, ₹1649,₹1069 ,Fasting not required
+148,Aspergillus Galactomannan Antigen, ₹3999,₹1949 ,Fasting not required
+149,Triiodothyronine (T3) Test, ₹349,₹175 ,Fasting not required
+150,Vitamin D Total, ₹1500,₹399 ,Fasting not required
+151,Lithium Test, ₹699,₹349 ,Fasting not required
+152,Allergy Panel Food Plus Non-Veg	, ₹14499,₹8499 ,Fasting not required
+153,Calcitonin, ₹799,₹599 ,Fasting not required
+154,Thallium,No MRP Price,₹1099 ,Fasting not required
+155,Beryllium,No MRP Price,₹1099 ,Fasting not required
+156,Lipid Profile Test, ₹799,₹399 ,Fasting required
+157,Amphetamine, ₹674,₹449 ,Fasting not required
+158,Free Triiodothyronine (FT3) Test, ₹749,₹175 ,Fasting not required
+159,N Acetyl Beta D Glucosaminidase, ₹499,₹349 ,Fasting not required
+160,Anti Glomerular Basement Membrane Protein - IgG, ₹2199,₹1499 ,Fasting not required
+161,Peripheral Smear (PS) Test,No MRP Price,₹649 ,Fasting not required
+162,Progesterone Test, ₹549,₹449 ,Fasting not required
+163,AFB Culture (MGIT), ₹3349,₹1949 ,Fasting not required
+164,Rheumatoid Factor (RA) Test- Quantitative, ₹849,₹539 ,Fasting not required
+165,Venereal Disease Research Laboratory (VDRL) Test, ₹399,₹249 ,Fasting not required
+166,Vanadium ,No MRP Price,₹1099 ,Fasting not required
+167,Prealbumin, ₹449,₹399 ,Fasting not required
+168,Calcium (Ca) Test, ₹349,₹219 ,Fasting not required
+169,Apolipoprotein A-1 Test, ₹899,₹499 ,Fasting not required
+170,Epstein Barr Viral Capsid Antigen - IgG, ₹1899,₹899 ,Fasting not required
+171,Hemoglobin (Hb) Test, ₹249,₹175 ,Fasting not required
+172,Vitamin E, ₹2799,₹1949 ,Fasting not required
+173,HMPV REAL TIME QUALITATIVE PCR, ₹7999,₹3599 ,Fasting not required
+174,TB MDR Screen (LPA), ₹4849,₹2899 ,Fasting not required
+175,Cystatin - C Test, ₹799,₹449 ,Fasting not required
+176,Carcinoembryonic Antigen (CEA) Test, ₹949,₹699 ,Fasting not required
+177,High Sensitivity Troponin I, ₹949,₹449 ,Fasting not required
+178,Renal / Kidney Function Test (RFT / KFT), ₹849,₹449 ,Fasting not required
+179,Liver Function Test (LFT), ₹1099,₹499 ,Fasting not required
+180,Selenium, ₹1099,₹1049 ,Fasting not required
+181,Cardiolipin Test - IgM, ₹799,₹449 ,Fasting not required
+182,C Peptide Test, ₹1099,₹899 ,Fasting required
+183,Fibrinogen Test, ₹699,₹299 ,Fasting not required
+184,Anti Chlamydia Antibody Test- IgG, ₹699,₹299 ,Fasting not required
+185,Leptospira - IgM (Elisa), ₹949,₹449 ,Fasting not required
+186,Nicotine Metabolites, ₹1649,₹1399 ,Fasting not required
+187,Anti Deamidated Gliadin Peptide - IgG, ₹699,₹299 ,Fasting not required
+188,HCV Antibody Test, ₹749,₹569 ,Fasting not required
+189,Aldolase, ₹1299,₹1049 ,Fasting not required
+190,Hepatitis B Envelope Antigen (HBeAg), ₹749,₹499 ,Fasting not required
+191,Insulin Like Growth Factor 1, ₹1049,₹799 ,Fasting not required
+192,Triglycerides Test, ₹249,₹175 ,Fasting required
+193,Phenobarbital/Gardenal Serum, ₹949,₹749 ,Fasting not required
+194,ASO - Qualitative, ₹1349,₹859 ,Fasting not required
+195,Varicella Zoster IgM, ₹949,₹749 ,Fasting not required
+196,Free Testosterone Test, ₹1299,₹1149 ,Fasting not required
+197,Entamoeba Histolytica - IgG, ₹699,₹349 ,Fasting not required
+198,Tetrahydrocannabinol, ₹749,₹499 ,Fasting not required
+199,Homocysteine Test, ₹949,₹849 ,Fasting not required
+200,Copper (Cu) Test, ₹1099,₹1049 ,Fasting not required
+201,Rubella Test - IgM, ₹649,₹449 ,Fasting not required
+202,Cardiac Risk Markers, ₹1199,₹449 ,Fasting not required
+203,Herpes Simplex Virus 1 (HSV) - IgM, ₹349,₹249 ,Fasting not required
+204,Ceruloplasmin Test, ₹1049,₹599 ,Fasting not required
+205,Folic  acid, ₹1099,₹499 ,Fasting not required
+206,Estradiol / Estrogen (E2) Test, ₹699,₹539 ,Fasting not required
+207,Chikungunya - IGM, ₹649,₹449 ,Fasting not required
+208,Lactate, ₹449,₹399 ,Fasting not required
+209,Thyroid Stimulating Hormone (TSH) - Ultrasensitive, ₹449,₹349 ,Fasting not required
+210,Hepatitis B Virus DNA Quantitative Viral Load Test, ₹12399,₹6589 ,Fasting not required
+211,Protein Creatinine Ratio (Urine) Test, ₹599,₹299 ,Fasting not required
+212,Anti Thyroglobulin Antibody Test, ₹1049,₹1019 ,Fasting not required
+213,Aspartate Aminotransferase (AST / SGOT) Test, ₹399,₹175 ,Fasting not required
+214,Hepatitis A Virus Antibody IgM Rapid Test, ₹449,₹349 ,Fasting not required
+215,Liver Kidney Microsomes, ₹1399,₹649 ,Fasting not required
+216,Anti-Mullerian Hormone (AMH) Test, ₹2699,₹1699 ,Fasting not required
+217,Urine Element Analysis Profile, ₹1899,₹899 ,Fasting not required
+218,Allergy Panel Food	, ₹9199,₹5399 ,Fasting not required
+219,Ethanol, ₹699,₹499 ,Fasting not required
+220,Carbamazepine Test, ₹699,₹299 ,Fasting not required
+221,Cytomegalovirus Antibody (CMV) Test - IgG, ₹699,₹299 ,Fasting not required
+222,Benzodiazepines, ₹674,₹449 ,Fasting not required
+223,High Sensitivity C-Reactive Protein (hs-CRP) Test, ₹799,₹449 ,Fasting not required
+224,HIV - Western Blot, ₹5299,₹2599 ,Fasting not required
+225,ANA - 17 Blot, ₹4399,₹2199 ,Fasting not required
+226,Angiotensin Converting Enzyme (ACE) Test, ₹799,₹599 ,Fasting not required
+227,Serum Electrolytes Test, ₹699,₹399 ,Fasting not required
+228,HIV I RNA Qualitative, ₹4399,₹2199 ,Fasting not required
+229,Barium,No MRP Price,₹1099 ,Fasting not required
+230,Cancer Antigen 19.9 (CA 19.9) Test, ₹999,₹749 ,Fasting not required
+231,Cytomegalovirus Antibody (CMV) Test - IgM, ₹699,₹299 ,Fasting not required
+232,Erythropoietin Test, ₹1049,₹599 ,Fasting not required
+233,Allergy Panel Food Plus Drug, ₹17999,₹10499 ,Fasting not required
+234,Manganese, ₹1099,₹1049 ,Fasting not required
+235,Blood Group Test, ₹449,₹249 ,Fasting not required
+236,Uranium ,No MRP Price,₹1099 ,Fasting not required
+237,Prothrombin Time & International Normalized Ratio (PT-INR), ₹1099,₹549 ,Fasting not required
+238,Hepatitis A virus (HAV) - IgM, ₹1049,₹649 ,Fasting not required
+239,Hepatitis B Virus (HBV) Qualitative PCR, ₹5549,₹4399 ,Fasting not required
+240,Malarial Antigen Test, ₹449,₹349 ,Fasting not required
+241,Beta-Thalassemia Screening, ₹949,₹499 ,Fasting not required
+242,Alpha Feto Protein (AFP) Test, ₹899,₹399 ,Fasting not required
+243,Lactate Dehydrogenase (LDH) Test, ₹749,₹349 ,Fasting not required
+244,Thyroglobulin (TG) Test, ₹1049,₹599 ,Fasting not required
+245,Fluorescent Smear, ₹1249,₹749 ,Fasting not required
+246,Dehydroepiandrosterone Sulfate (DHEAS) Test, ₹1099,₹849 ,Fasting not required
+247,CHLAMYDIA TRACHOMATIS PCR, ₹8549,₹5149 ,Fasting not required
+248,Rubella Test - IgG , ₹599,₹459 ,Fasting not required
+249,Serum Phosphorus (Ph) Test, ₹449,₹249 ,Fasting not required
+250,Herpes Simplex Virus 2 (HSV) - IgG, ₹699,₹299 ,Fasting not required
+251,Cotinine, ₹699,₹299 ,Fasting not required
+252,TB XDR Screen (LPA), ₹4849,₹2899 ,Fasting not required
+253,Human Growth Hormone Test, ₹949,₹499 ,Fasting not required
+254,Vitamin A Test, ₹2799,₹1949 ,Fasting not required
+255,Hepatitis B Surface Antigen (HBsAg) Test, ₹549,₹479 ,Fasting not required
+256,Echinococcus - IgG, ₹699,₹349 ,Fasting not required
+257,Arsenic, ₹1099,₹1049 ,Fasting not required
+258,Phencyclidine, ₹299,₹225 ,Fasting not required
+259,ASCA Test - IgG, ₹1299,₹1049 ,Fasting not required
+260,Hepatitis B Envelope Antibody Rapid Test, ₹699,₹549 ,Fasting not required
+261,"Vitamin D 1,25 - Dihydroxy Test", ₹4499,₹2199 ,Fasting not required
+262,Aldosterone, ₹3299,₹1499 ,Fasting not required
+263,D-DIMER Test, ₹1599,₹1249 ,Fasting not required
+264,Anti Deamidated Gliadin Peptide - IgA, ₹699,₹299 ,Fasting not required
+265,Lipoprotein (A) Test, ₹649,₹499 ,Fasting not required
+266,Nickel,No MRP Price,₹1099 ,Fasting not required
+267,Kappa Light Chain, ₹799,₹599 ,Fasting not required
+268,Cortisol (8 am) Test, ₹1099,₹479 ,Fasting not required
+269,Toxoplasma Test - IgG, ₹699,₹299 ,Fasting not required
+270,Malarial Parasite Test, ₹549,₹399 ,Fasting not required
+271,Hepatitis C Virus (HCV) Test - Qualitative, ₹4399,₹2199 ,Fasting not required
+272,Helicobacter Pylori - IgG, ₹1999,₹949 ,Fasting not required
+273,Typhi Test - IgM, ₹549,₹399 ,Fasting not required
+274,Dengue Rapid Test (IgG/IgM), ₹649,₹499 ,Fasting not required
+275,Urine Routine Test, ₹549,₹399 ,Fasting not required
+276,Measles Antibody - IgG, ₹1249,₹989 ,Fasting not required
+277,Treponema Pallidum Antibody (TPAB), ₹699,₹299 ,Fasting not required
+278,"Allergy Panel Food, Inhalant, Non-Veg Plus Drug", ₹19999,₹11999 ,Fasting not required
+279,Blood Element Analysis Profile Test, ₹1199,₹749 ,Fasting not required
+280,Inhibin A, ₹2199,₹1599 ,Fasting not required
+281,Bile Acid Test, ₹699,₹499 ,Fasting required
+282,Cobalt,No MRP Price,₹1099 ,Fasting not required
+283,"
+          Potassium (K+) Test
+        ", ₹249,₹239 ,Fasting not required
+284,Alpha 2 Macroglobulin,No MRP Price,₹649 ,Fasting not required
+285,Glucose-6-phosphate dehydrogenase (G6PD) Test, ₹799,₹449 ,Fasting not required
+286,Mumps Antibody - IgM, ₹799,₹599 ,Fasting not required
+287,Anti Phospholipid Test - IgG, ₹1049,₹659 ,Fasting not required
+288,Hepatitis E Virus Antibody IgM Rapid Test, ₹449,₹349 ,Fasting not required
+289,Widal test (Slide method), ₹249,₹199 ,Fasting not required
+290,Acetylcholine Receptor Autoantibody (ACHR), ₹2599,₹2049 ,Fasting not required
+291,Troponin I Heart Attack Risk, ₹1199,₹419 ,Fasting not required
+292,Adenosine Deaminase Test, ₹799,₹449 ,Fasting not required
+293,Methamphetamine, ₹299,₹225 ,Fasting not required
+294,Protein Electrophoresis Test, ₹949,₹599 ,Fasting not required
+295,Anti-dsDNA Test, ₹1099,₹749 ,Fasting not required
+296,H3N2 Plus Influenza Profile, ₹6000,₹4200 ,Fasting not required
+297,Digoxin Test, ₹699,₹299 ,Fasting not required
+298,Follicular Stimulating Hormone (FSH) Test, ₹449,₹319 ,Fasting not required
+299,Sputum Culture and Susceptibility, ₹1249,₹699 ,Fasting not required
+300,IGM Low Concentration,No MRP Price,₹1999 ,Fasting not required
+301,Coomb's test (Direct), ₹699,₹299 ,Fasting not required
+302,Sickling Test, ₹699,₹299 ,Fasting not required
+303,Herpes Simplex Virus (HSV) Test - IgG, ₹699,₹299 ,Fasting not required
+304,Amylase Test, ₹449,₹299 ,Fasting not required
+305,Cholinesterase, ₹349,₹249 ,Fasting not required
+306,Urine Culture Test (Urine C/S), ₹1149,₹899 ,Fasting not required
+307,Gamma Glutamyl Transferase (GGT) Test, ₹299,₹175 ,Fasting not required
+308,Cancer Antigen 125 (CA 125) Test, ₹1349,₹1069 ,Fasting not required
+309,Fructosamine Test, ₹699,₹299 ,Fasting not required
+310,Chromium,No MRP Price,₹1099 ,Fasting not required
+311,Sialic Acid, ₹499,₹399 ,Fasting not required
+312,Herpes Simplex Virus 1 (HSV) - IgG, ₹749,₹299 ,Fasting not required
+313,Iron Profile, ₹649,₹349 ,Fasting not required
+314,Coomb's test (Indirect), ₹699,₹299 ,Fasting not required
+315,Smear AFB, ₹1249,₹699 ,Fasting not required
+316,Immunoglobulin A Test  - IgA, ₹1049,₹599 ,Fasting not required
+317,Vitamin B Complex Profile, ₹2199,₹1699 ,Fasting not required
+318,Dengue Test - IgM (Elisa), ₹649,₹599 ,Fasting not required
+319,Total IgE, ₹899,₹649 ,Fasting not required
+320,Anti Sperm Antibody (ASAB) Test, ₹1849,₹1449 ,Fasting not required
+321,Molybdenum,No MRP Price,₹1099 ,Fasting not required
+322,Propoxyphene, ₹299,₹225 ,Fasting not required
+323,Anti Nuclear Antibody (ANA-Elisa) Test, ₹849,₹449 ,Fasting not required
+324,Troponin I Rapid Test, ₹1749,₹1599 ,Fasting not required
+325,Acid Phosphatase, ₹799,₹349 ,Fasting not required
+326,Hepatitis C Virus Quantitative (Viral Load) - Real Time PCR, ₹5049,₹3999 ,Fasting not required
+327,17 OH Progesterone Test, ₹1199,₹649 ,Fasting not required
+328,Anti Hepatitis E Virus (Anti HEV) - IgM, ₹1049,₹599 ,Fasting not required
+329,Mumps Antibody - IgG, ₹1249,₹989 ,Fasting not required
+330,Globulin, ₹449,₹199 ,Fasting not required
+331,Alpha Hydroxybutyrate Dehydrogenase (Alpha-HBDH), ₹249,₹175 ,Fasting not required
+332,Bicarbonate Test, ₹349,₹299 ,Fasting not required
+333,Cocaine, ₹674,₹449 ,Fasting not required
+334,Interleukin 6 (IL6) Test, ₹2149,₹1249 ,Fasting not required
+335,Bismuth,No MRP Price,₹1099 ,Fasting not required
+336,Allergy Panel Inhalant, ₹6949,₹4099 ,Fasting not required
+337,Albumin Test, ₹249,₹125 ,Fasting not required
+338,Measles Antibody - IgM, ₹799,₹599 ,Fasting not required
+339,Transferrin Urine, ₹1049,₹699 ,Fasting not required
+340,Helicobacter Pylori - IgA, ₹1999,₹949 ,Fasting not required
+341,SGPT / ALT (Alanine Transaminase) Test, ₹349,₹175 ,Fasting not required
+342,Hemoglobin Variant Analysis - HPLC, ₹1049,₹819 ,Fasting not required
+343,Magnesium Test, ₹499,₹199 ,Fasting not required
+344,Hepatitis C Antibody Rapid Test, ₹299,₹199 ,Fasting not required
+345,Ketamine, ₹299,₹225 ,Fasting not required
+346,Creatinine Test, ₹299,₹179 ,Fasting not required
+347,Total Leucocytes / WBC Count (TLC) Test, ₹199,₹175 ,Fasting not required
